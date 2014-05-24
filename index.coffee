@@ -198,9 +198,8 @@ consolidate = ->
 
   for asset, tx of txs
     sign_multisig arb_key, tx, a_channel.multisig_script()
-  # Arbitrator: txs -> Alice over network...
 
-  # 3. Alice: broadcast to network
+  # 3. Arbitrator: broadcast to network
   debug 'Broadcasting...'
   for asset, tx of txs then do (asset, tx) ->
     debug_alice 'Broadcasting to %s network', asset
