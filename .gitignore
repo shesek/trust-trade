@@ -1,1 +1,6 @@
 node_modules
+*.swp
+keys.txt~
+keys.txt
+rpc.cert
+.env

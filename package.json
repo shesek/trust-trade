@@ -1,5 +1,23 @@
 {
   "name": "trust-trade",
   "version": "0.0.1",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crypto-hashing": "^0.3.1",
+    "eckey": "^0.4.2",
+    "bigi": "^1.1.0",
+    "coininfo": "^0.1.0",
+    "coinstring": "^0.2.0",
+    "binstring": "^0.2.1",
+    "lazy-prop": "^0.1.0",
+    "ecurve": "^0.3.2",
+    "btc-opcode": "0.0.1",
+    "btc-script": "^0.1.10",
+    "ecurve-names": "^0.3.0",
+    "ecdsa": "^0.4.1",
+    "debug": "^0.8.1",
+    "btc-transaction": "^0.1.7",
+    "coffee-script": "^1.7.1",
+    "btcd": "0.0.5"
+  }
 }
