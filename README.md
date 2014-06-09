@@ -1,3 +1,5 @@
+See the [presentaiton here](https://docs.google.com/presentation/d/1TP7iQzrIUWC-zJdDQ7TWLHckRS3xn3JYcctaX99v0hs/edit#slide=id.p).
+
 ## Trust-Trade
 
 Off-chain, centralized and trustless (\*) payment channel for high frequency
